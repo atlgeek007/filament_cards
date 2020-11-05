@@ -17,7 +17,7 @@ include <./test.txt>;
 // line_3_text="NOZ_SIZE / NOZ_TEMP / BED_TEMP";
 
 // Should the text be raised or inset from the Card
-text_position=-1; //[1:Outset,-1:Inset]
+text_position=1; //[1:Outset,-1:Inset]
 
 // Layer Samples to Print
 numLayers=4; // [4:1:8]
