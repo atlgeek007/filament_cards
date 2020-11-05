@@ -1,0 +1,6 @@
+// Line 1 (Brand)
+line_1_text="BRAND TYPE";
+// Line 2 (Color / Type)
+line_2_text="COLOR";
+// Line 3 (Nozzle / Temp / Bed Temp)
+line_3_text="NOZ_SIZE / NOZ_TEMP / BED_TEMP";
