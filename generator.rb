@@ -4,8 +4,8 @@ require 'csv'
 require 'fileutils'
 
 filaments = CSV.read("./filaments.csv", headers: true)
-header_file = File.read("./header.scad")
-footer_file = File.read("./footer.scad")
+header_file = File.read("./includes/header.txt")
+footer_file = File.read("./includes/footer.txt")
 
 filaments.each do |var|
   filapath = './'+"#{var['brand']}"+'/'+"#{var['material']}"+'/'
