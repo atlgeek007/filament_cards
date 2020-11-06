@@ -7,7 +7,7 @@ layer1Height=.2;
 layerHeight=.2;
 
 // include the filament parameters
-line_1_text="Atomic";
+line_1_text="Atomic PLA";
 line_2_text="TL Starry Night";
 line_3_text="0.4mm / 215 / 60";
 // Line 1 (Brand)

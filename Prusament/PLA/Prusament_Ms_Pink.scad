@@ -7,7 +7,7 @@ layer1Height=.2;
 layerHeight=.2;
 
 // include the filament parameters
-line_1_text="Prusament";
+line_1_text="Prusament PLA";
 line_2_text="Ms Pink";
 line_3_text="0.4mm / 195 / 60";
 // Line 1 (Brand)

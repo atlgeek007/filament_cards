@@ -7,7 +7,7 @@ layer1Height=.2;
 layerHeight=.2;
 
 // include the filament parameters
-line_1_text="Inland";
+line_1_text="Inland PETG";
 line_2_text="Black";
 line_3_text="0.4mm / 250 / 90";
 // Line 1 (Brand)

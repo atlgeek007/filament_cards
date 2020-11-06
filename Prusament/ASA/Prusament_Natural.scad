@@ -7,7 +7,7 @@ layer1Height=.2;
 layerHeight=.2;
 
 // include the filament parameters
-line_1_text="Prusament";
+line_1_text="Prusament ASA";
 line_2_text="Natural";
 line_3_text="0.4mm / 260 / 110";
 // Line 1 (Brand)

@@ -7,7 +7,7 @@ layer1Height=.2;
 layerHeight=.2;
 
 // include the filament parameters
-line_1_text="Fulament";
+line_1_text="Fulament PLA";
 line_2_text="Matte Grey";
 line_3_text="0.4mm / 215 / 60";
 // Line 1 (Brand)

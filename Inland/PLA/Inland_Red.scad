@@ -7,7 +7,7 @@ layer1Height=.2;
 layerHeight=.2;
 
 // include the filament parameters
-line_1_text="Inland";
+line_1_text="Inland PLA";
 line_2_text="Red";
 line_3_text="0.4mm / 215 / 60";
 // Line 1 (Brand)
