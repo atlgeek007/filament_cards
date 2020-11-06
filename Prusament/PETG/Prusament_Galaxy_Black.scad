@@ -9,7 +9,7 @@ layerHeight=.2;
 // include the filament parameters
 line_1_text="Prusament";
 line_2_text="Galaxy Black";
-line_3_text="250 / 90 / ";
+line_3_text="0.4mm / 250 / 90";
 // Line 1 (Brand)
 // line_1_text="BRAND TYPE";
 // Line 2 (Color / Type)
